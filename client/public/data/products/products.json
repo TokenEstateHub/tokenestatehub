@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "title": "Luxury Family Home",
+    "price": "750,000",
+    "location": "75 Prince St, NY, USA",
+    "type": "For Sale",
+    "description": "A spacious luxury home with a beautiful backyard and modern interior design.",
+    "brand": "Luxury Estates",
+    "rating": 4.8,
+    "category": "House",
+    "color": "White & Gray",
+    "images": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300/aaa",
+      "https://via.placeholder.com/400x300/bbb"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Family House For Rent",
+    "price": "2,500/month",
+    "location": "23 Elm St, CA, USA",
+    "type": "For Rent",
+    "description": "A cozy family house with a great neighborhood and nearby schools.",
+    "brand": "Dream Rentals",
+    "rating": 4.5,
+    "category": "House",
+    "color": "Beige & Brown",
+    "images": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300/ccc",
+      "https://via.placeholder.com/400x300/ddd"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Modern Apartment",
+    "price": "600,000",
+    "location": "70 Bright St, NY, USA",
+    "type": "For Sale",
+    "description": "A sleek modern apartment with smart home features and great city views.",
+    "brand": "Urban Living",
+    "rating": 4.7,
+    "category": "Apartment",
+    "color": "Gray & Black",
+    "images": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300/eee",
+      "https://via.placeholder.com/400x300/fff"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Cozy Studio Apartment",
+    "price": "1,800/month",
+    "location": "10 Main St, LA, USA",
+    "type": "For Rent",
+    "description": "A compact and cozy studio apartment perfect for young professionals.",
+    "brand": "City Studios",
+    "rating": 4.3,
+    "category": "Studio",
+    "color": "Blue & White",
+    "images": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300/ggg",
+      "https://via.placeholder.com/400x300/hhh"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Beachfront Villa",
+    "price": "1,200,000",
+    "location": "101 Ocean Ave, Miami, USA",
+    "type": "For Sale",
+    "description": "A stunning beachfront villa with breathtaking ocean views and a private pool.",
+    "brand": "Coastal Homes",
+    "rating": 4.9,
+    "category": "Villa",
+    "color": "White & Blue",
+    "images": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300/iii",
+      "https://via.placeholder.com/400x300/jjj"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Suburban Family House",
+    "price": "900,000",
+    "location": "44 Maple St, Boston, USA",
+    "type": "For Rent",
+    "description": "A spacious suburban home with a beautiful garden and ample parking.",
+    "brand": "Suburbia Realty",
+    "rating": 4.6,
+    "category": "House",
+    "color": "Brown & Green",
+    "images": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300/kkk",
+      "https://via.placeholder.com/400x300/lll"
+    ]
+  }
+]
